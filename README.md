@@ -19,6 +19,6 @@
 1. Creare un **branch** di lavoro *branch2* ed effettuare le seguenti **modifiche** al file *.css* (in più commit):
     1. Modificare la dimensione del paragrafo,
     1. Modificare l'allineamento del tag *H1*.
-1. Riportare sul main solo le modigiche del *branch1*.
+1. Riportare sul main solo le modifiche del *branch1*.
 1. Allineare il repository remoto su GitHub con le modifiche effettuate.
 1. **Consegnare su Classroom uno screenshot con i comandi eseguiti dalla bash.**
